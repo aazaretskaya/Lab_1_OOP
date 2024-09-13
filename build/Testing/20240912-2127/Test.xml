@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240912-2127-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-GCTKBAM"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="18647"
+	TotalPhysicalMemory="16215"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2496"
+	>
+	<Testing>
+		<StartDateTime>Sep 13 01:06 RTZ 2 (зима)</StartDateTime>
+		<StartTestTime>1726178781</StartTestTime>
+		<TestList>
+			<Test>./BoxCapacityTest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>BoxCapacityTest</Name>
+			<Path>.</Path>
+			<FullName>./BoxCapacityTest</FullName>
+			<FullCommandLine>D:\МАИ\Lab_1_OOP\build\Lab_1_OOP.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0103794</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>D:\МАИ\Lab_1_OOP\build\Lab_1_OOP.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNk01PwzAMhu/5FT6yQyu4cNthoxVCoDGtcKp68EaYLCVOSdJ9/HuydapYBCXvIVLi136SyK6ngxpYdczEW7gHL5138GmNhrvzBlxHXuaizgY18KjMGlUfl7wja1hLDl7ps66NzFdF5+bwgC1uyB/fwqmoYfW+gLOaOJiflpl74vKAulUymHu9Pv9vhptb0G4yDpijo83lHiOlB1tS0YXhgnbkaK1kQeFfHBl244Tfc5JwL2i3yZzInAQovzpUqYDInASoNKpkQGQeAKkd1yeANx7VRKS1tZdosw+zZ1H/nJo/pwUscn4NCm9azqqqLE4fcEnMxTesnR4G====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Sep 13 01:06 RTZ 2 (зима)</EndDateTime>
+		<EndTestTime>1726178781</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

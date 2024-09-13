@@ -1,0 +1,38 @@
+Start testing: Sep 13 22:50 RTZ 2 (зима)
+----------------------------------------------------------
+1/1 Testing: BoxCapacityTest
+1/1 Test: BoxCapacityTest
+Command: "D:/МАИ/Lab_1_OOP/build/Lab_1_OOP.exe"
+Directory: D:/МАИ/Lab_1_OOP/build
+"BoxCapacityTest" start time: Sep 13 22:50 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from BoxCapacityTest
+[ RUN      ] BoxCapacityTest.TestAsInExample
+[       OK ] BoxCapacityTest.TestAsInExample (0 ms)
+[ RUN      ] BoxCapacityTest.BasicTest
+[       OK ] BoxCapacityTest.BasicTest (0 ms)
+[ RUN      ] BoxCapacityTest.NonDivisibleDimensions
+[       OK ] BoxCapacityTest.NonDivisibleDimensions (0 ms)
+[ RUN      ] BoxCapacityTest.LargeDimensions
+[       OK ] BoxCapacityTest.LargeDimensions (0 ms)
+[ RUN      ] BoxCapacityTest.EqualDimensions
+[       OK ] BoxCapacityTest.EqualDimensions (0 ms)
+[ RUN      ] BoxCapacityTest.SmallDimensions
+[       OK ] BoxCapacityTest.SmallDimensions (0 ms)
+[----------] 6 tests from BoxCapacityTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BoxCapacityTest" end time: Sep 13 22:50 RTZ 2 (зима)
+"BoxCapacityTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 13 22:50 RTZ 2 (зима)
